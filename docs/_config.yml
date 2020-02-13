@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - <the name of your second page>.md
+  - <About me>.md
 
-title: <your webpage title>
-description: <description of your webpage> 
+title: <Brittany's Website>
+description:< Hello! Welcome to my website.> 
