@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - <About me>.md
+  - test2.md
 
 title: <Brittany's Website>
-description:< Hello! Welcome to my website.> 
+description:Hello! Welcome to my website.
