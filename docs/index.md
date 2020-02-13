@@ -17,3 +17,5 @@ Test   | Test
 ------------ | -------------
 Test 1ontent 1 | Test Content 2
 Test Comtent 3 | Test Content 4
+
+[Go to Page 2](test2.md)
