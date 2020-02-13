@@ -8,5 +8,6 @@ I like them all!
 - Maltease 
 - Sheepdog
 
->“No one appreciates the very special genius of your conversation as the dog does.” 
->– Christopher Morley
+>No one appreciates the very special genius of your conversation as the dog does.
+>
+- Christopher Morley
